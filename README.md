@@ -5,24 +5,23 @@ Done using UE5 Blueprints
 
 ### Current state:
 Done: 
-- Movement (walk, jump, attack, dash)
+- Movement (walk, jump, attack, dash) + (Coyete Time, Jump Buffering)
 - First level for testing features
-- Attack functionality
+- Attack functionality (currently only short version, long version in plans, Attack with sword WILL NOT BE MAIN means to deal with enemies)
 - First simple attacking AI (Skeleton)
 - Killzone (Spikes tile)
 
 Closest features:
-- Start town
-- Few levels
+- Other means to deal with enemies (rolling through to send them into the air, sliding, pressing down etc.)
+- Start town (Main menu townlike)
+- Few levels (Tutorial levels first)
 
 In plans:
-- Combo
-- Mobs
-- Main town
-- Story
+- Mobs 
+- Story (This one will be hard if not made simplified)
 
 
-Personal reasons to do this project:
+Personal reasons for making this project:
 - Learn UE API through using blueprints basics and then transferring loaded features into C++ code.
 - Create a platformer with enjoyable features, smooth movement and interesting story
 
